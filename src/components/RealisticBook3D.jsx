@@ -117,13 +117,13 @@ const pagesData = [
       text: "E por favor… pare de achar que é exploradora. Eu jamais pensaria isso de você. Eu sei quem você é.\n\nPode me dizer o que sente sem medo. Não estou aqui pra te julgar, muito ao contrário, estou aqui pra te acolher, te ajudar, do jeito que você merece.\n\nE já estava até me esquecendo… recebe esse presente como forma de gratidão por você ser exatamente você. Por existir na minha vida desse jeitinho único que só você tem.\n\n"
     },
     back: {
-      text: "Eu estou aqui, pronto pra dividir qualquer peso contigo. Quero ser seu abrigo nos dias de tempestade e sua calmaria nas noites difíceis. \n\n Não importa o que aconteça. Eu tenho meus problemas, minhas falhas, minhas imperfeições… mas eu escolhi estar com você. E estou aqui por você.\n\nTalvez eu não seja o garoto dos seus sonhos. Eu tenho minhas inseguranças, e meu maior medo é te perder.\n\n Eu quero poder fazer o que nunca ninguém fez por você. Eu quero ser diferente.\n\n Mas a verdade é simples: eu me apaixonei por você."
+      text: "Eu estou aqui, pronto pra dividir qualquer peso contigo. Quero ser seu abrigo nos dias de tempestade e sua calmaria nas noites difíceis. \n\n Não importa o que aconteça. Eu tenho meus problemas, minhas falhas, minhas imperfeições… mas eu escolhi estar com você. E estou aqui por você.\n\n Talvez eu não seja o garoto dos seus sonhos. Eu tenho minhas inseguranças, e meu maior medo é te perder.\n\n Eu quero poder fazer o que nunca ninguém fez por você. Eu quero ser diferente."
     }
   },
   // PÁGINA 4
   {
     front: {
-      text: "Não pelo corpo, não pela aparência.\nMe apaixonei por você. \n\n E sobre o nosso futuro… não tenho muito o que dizer, só que vou fazer de tudo pra dar certo. Disso você pode ter certeza. Inclusive nos seus estudos, nos seus sonhos, em tudo que você quiser construir. \n\n E nesse Natal, eu só quero que você se sinta bem. \n Que seu coração fique tranquilo, e que você consiga aproveitar bastante assistindo seu Grinch. \n E que você nunca duvide do quanto é especial."
+      text: "Mas a verdade é simples: eu me apaixonei por você. \nNão pelo corpo, não pela aparência.\nMe apaixonei por você. \n\n E sobre o nosso futuro… não tenho muito o que dizer, só que vou fazer de tudo pra dar certo. Disso você pode ter certeza. Inclusive nos seus estudos, nos seus sonhos, em tudo que você quiser construir. \n\n E nesse Natal, eu só quero que você se sinta bem. \n Que seu coração fique tranquilo, e que você consiga aproveitar bastante assistindo seu Grinch. \n E que você nunca duvide do quanto é especial."
     },
     back: {
       text: "Obrigado por deixar eu fazer parte da sua vida.\nObrigado por cada conversa, cada momento, cada detalhe nosso.\n\nEu espero, do fundo do coração, que este Natal te abrace com tudo o que existe de mais bonito…\ne que eu possa continuar te acompanhando, não só nesta época, mas em todos os Natais que a vida permitir.\n\nCom amor, Mayron ❤️"
