@@ -105,7 +105,7 @@ const pagesData = [
   // PÁGINA 2
   {
     front: {
-      text: "Até que hoje eu to inspirado, não são todos dias, estou emocionado escrevendo isso, sou bem emocional na verdade, por mais que não apareça e eu não demonstre tanto.\n\nE preciso te dizer uma coisa, adoro quando você está naqueles dias. Já te falei isso mil vezes e vou falar pela milésima primeira rs. Você sabe o que quero dizer… eu amo, no sentido bom, claro..\n\nJá não sei mais o que escrever, estou perdido, mas aproveitei que hoje estou inspirado."
+      text: "Até que hoje eu to inspirado, não são todos dias, estou emocionado escrevendo isso. \n\nE preciso te dizer uma coisa, adoro quando você está naqueles dias. Já te falei isso mil vezes e vou falar pela milésima primeira rs. Você sabe o que quero dizer… eu amo, no sentido bom, claro..\n\nJá não sei mais o que escrever, estou perdido, mas aproveitei que hoje estou inspirado."
     },
     back: {
       text: "Eu amo nossas calls de soninho. Me sinto tão perto de você, mesmo a quilômetros de distância. Me sinto acolhido, sinto que estou no lugar certo.\n\n Acordar e ouvir um bom dia seu… ou acordar e ver um simples “bom dia” seu. Pode parecer pequeno, insignificante, mas não é. Eu valorizo cada detalhe. \n\n Independente de tudo isso que estamos construindo, acima de tudo somos melhores amigos. E isso significa que você sempre vai poder contar comigo, seja nos dias bons ou ruins. Estou aqui porque eu quero, porque eu gosto de você, e porque você merece muito mais do que eu consigo oferecer."
